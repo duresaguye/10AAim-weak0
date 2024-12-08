@@ -1,7 +1,7 @@
 Solar Farm Data Analysis
 Overview
 
-This project analyzes solar farm data from Benin, Sierra Leone, and Togo to uncover key insights about solar irradiance and related parameters. The analysis involves data preprocessing, statistical analysis, and various visualizations to help understand the patterns and trends in the solar data. The results are presented through an interactive Streamlit dashboard https://mainpy-dp4otqcupvpauesq3grhie.streamlit.app/ , making it easy to explore the data and findings.
+The aim of this analysis is to uncover key insights from the solar radiation data for the regions of Benin, Sierra Leone, and Togo. By identifying trends and patterns in solar irradiance, wind conditions, temperature variations, and sensor data quality, the analysis will guide MoonLight Energy Solutions in determining high-potential regions for solar installations that align with the company's sustainability goals.. The results are presented through an interactive Streamlit dashboard https://mainpy-dp4otqcupvpauesq3grhie.streamlit.app/ , making it easy to explore the data and findings.
 Project Structure
 
 The repository is organized as follows:
