@@ -18,7 +18,7 @@ Streamlit Dashboard
 
 Streamlit is an open-source app framework for creating data-driven web applications in Python. In this project, we use Streamlit to create an interactive dashboard that allows users to explore the solar farm data. The dashboard includes several features:
 
-    Data Previews: Display the first few rows of the datasets for Benin, Sierra Leone, and Togo.
+   Data Previews: Display the first few rows of the datasets for Benin, Sierra Leone, and Togo.
     Summary Statistics: Show descriptive statistics for the datasets, including measures of central tendency and variability.
     Missing Values: Identify and display the number of missing values in each dataset.
     Outlier Detection: Detect and display outliers in the Global Horizontal Irradiance (GHI) values using the Z-score method.
