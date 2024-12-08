@@ -1,14 +1,14 @@
 Solar Farm Data Analysis
 Overview
 
-This project analyzes solar farm data from Benin, Sierra Leone, and Togo to uncover key insights about solar irradiance and related parameters. The analysis involves data preprocessing, statistical analysis, and various visualizations to help understand the patterns and trends in the solar data. The results are presented through an interactive Streamlit dashboard(https://alpha-mintamir-solar-farm-data-analysis-appmain-y6rsre.streamlit.app/) , making it easy to explore the data and findings.
+This project analyzes solar farm data from Benin, Sierra Leone, and Togo to uncover key insights about solar irradiance and related parameters. The analysis involves data preprocessing, statistical analysis, and various visualizations to help understand the patterns and trends in the solar data. The results are presented through an interactive Streamlit dashboard https://mainpy-dp4otqcupvpauesq3grhie.streamlit.app/ , making it easy to explore the data and findings.
 Project Structure
 
 The repository is organized as follows:
 
    
 
-    app.py: The main script for the Streamlit application. This script loads the data, performs analysis, and renders the interactive dashboard.
+    app/main.py: The main script for the Streamlit application. This script loads the data, performs analysis, and renders the interactive dashboard.
 
     requirements.txt: Lists the Python dependencies required to run the project, including libraries such as pandas, numpy, matplotlib, seaborn, scipy, and streamlit.
 
